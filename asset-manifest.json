@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lcu-calculator/static/css/main.9bd7a35e.css",
+    "main.js": "/lcu-calculator/static/js/main.9841b961.js",
+    "index.html": "/lcu-calculator/index.html",
+    "main.9bd7a35e.css.map": "/lcu-calculator/static/css/main.9bd7a35e.css.map",
+    "main.9841b961.js.map": "/lcu-calculator/static/js/main.9841b961.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd7a35e.css",
+    "static/js/main.9841b961.js"
+  ]
+}
