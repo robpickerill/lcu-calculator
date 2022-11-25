@@ -12,7 +12,6 @@ class Navigation extends Component {
                     <Navbar.Brand to="/">Loadbalancer Capacity Units Calculator</Navbar.Brand>
                     <Nav className="justify-content-end" style={{ width: "100%" }}>
                         <Nav.Link as={Link} to="/alb">ALB</Nav.Link>
-                        <Nav.Link as={Link} to="/nlb">NLB</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Navbar >
